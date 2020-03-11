@@ -1,0 +1,1 @@
+# UFABC-Digital-Image-Processing-2019.3-Project-Car-Plate-Segmentation-and-OCR
