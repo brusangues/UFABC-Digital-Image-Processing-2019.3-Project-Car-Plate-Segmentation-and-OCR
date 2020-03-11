@@ -5,7 +5,6 @@
 
 ***
 Bruno Sanches Rodrigues
-11201721076
 
 # Segmentação de Carros e Placas em Vídeos de Segurança
 O projeto desenvolvido consiste em um sistema de identificação de carros em vídeos de seguraça. O sistema também realiza a segmentação das placas dos carros, bem como o reconhecimento dos caracteres.
